@@ -16,7 +16,7 @@
 title: STRANGE ANIMALS LIKING STRANGE AUDIO
 author: The Animals
 description: > # this means to ignore newlines until "baseurl:"
-  That's just, like, who we are, man.
+  A group of fuzzy, fuzzy-adjacent, and fuzzy-minded folks who really love music.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://strangeanimals.likingstrange.audio"
 twitter_username: jekyllrb
