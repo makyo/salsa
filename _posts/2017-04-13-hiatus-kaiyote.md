@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hiatus Kaiyote
+author: Makyo
 ---
 
 Found through my Discover weekly, [Hiatus Kaiyote](https://hiatuskaiyote.com/) is the postmodern-jukebox, electroswing-adjacent, multi-dimensional, polyrhythmic gangster shit you didn't know you needed!
