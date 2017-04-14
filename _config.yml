@@ -19,8 +19,11 @@ description: > # this means to ignore newlines until "baseurl:"
   A group of fuzzy, fuzzy-adjacent, and fuzzy-minded folks who really love music.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://strangeanimals.likingstrange.audio"
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: salsa_fyi
+github_username:  makyo
+disqus:
+  shortname: strange-animals
+repository: makyo/salsa
 
 # Build settings
 paginate: 5
