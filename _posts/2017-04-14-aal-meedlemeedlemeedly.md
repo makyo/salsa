@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Animals as Leaders' Meedly Accoustics
+title: Animals as Leaders' Meedly Acoustics
 author: Makyo
 ---
 
