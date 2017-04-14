@@ -23,7 +23,6 @@ twitter_username: salsa_fyi
 github_username:  makyo
 disqus:
   shortname: strange-animals
-repository: makyo/salsa
 
 # Build settings
 paginate: 5
