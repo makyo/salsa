@@ -4,12 +4,48 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+
+    <!-- metadata -->
+    <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
+    <link rel="shortlink" href="http://salsa.fyi{{ page.url }}" />
+    <meta name="description" content="{{ site.description }}{% if page.layout == 'post' %} | {{ page.title|xml_escape }} posted on {{ page.date | date: "%b %-d, %Y" }}{% if page.author %} by {{ page.author }}{% endif %}{% endif %}" />
+
+    <!-- OpenGraph metadata -->
+    {% if page.title %}
+        <meta property="og:title" content="{{ page.title }}" />
+    {% else %}
+        <meta property="og:title" content="STRANGE ANIMALS LIKING STRANGE AUDIO" />
+    {% endif %}
+    <meta property="og:site_name" content="STRANGE ANIMALS LIKING STRANGE AUDIO" />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="{{ '/assets/logo.png' | absolute_url }}" />
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+    <meta property="og:description" content="{{ site.description }}{% if page.layout == 'post' %} | {{ page.title|xml_escape }} posted on {{ page.date | date: "%b %-d, %Y" }}{% if page.author %} by {{ page.author }}{% endif %}{% endif %}" />
+
+    <!-- Twitter Card metadata -->
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@salsa_fyi" />
+    <meta name="twitter:title" content="STRANGE ANIMALS LIKING STRANGE AUDIO{% if page.title %} | {{ page.title|xml_escape }}{% endif %}" />
+    <meta name="twitter:description" content="{{ site.description }}{% if page.layout == 'post' %} | {{ page.title|xml_escape }} posted on {{ page.date | date: "%b %-d, %Y" }}{% if page.author %} by {{ site.data.authors[page.author].name }}{% endif %}{% endif %}" />
+    <meta name="twitter:image" content="{{ '/assets/salsa-logo-border.png' | absolute_url }}" />
+
+    <!-- JSON-LD metadata -->
+    <script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+            "@type": "WebSite",
+            "name": "STRANGE ANIMALS LIKING STRANGE AUDIO",
+            "headline": "STRANGE ANIMALS LIKING STRANGE AUDIO{% if page.title %} | {{ page.title|xml_escape }}{% endif %}",
+            "description": "{{ site.description }}{% if page.layout == 'post' %} | {{ page.title|xml_escape }} posted on {{ page.date | date: "%b %-d, %Y" }}{% if page.author %} by {{ page.author }}{% endif %}{% endif %}",
+            "url": "{{ site.url }}{{ page.url }}"
+        }
+    </script>
+
+
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
-  
+
   {% if jekyll.environment == 'production' and site.google_analytics %}
   {% include google-analytics.html %}
   {% endif %}

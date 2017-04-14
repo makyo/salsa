@@ -1,0 +1,53 @@
+---
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: home
+---
+
+<ul class="post-list">
+    {% for post in paginator.posts %}
+        <li>
+            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} &bull; {{ post.author }}{% endif %}</span>
+
+            <h2>
+                <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+            </h2>
+            {{ post.excerpt }}
+        </li>
+    {% endfor %}
+</ul>
+
+{% if paginator.total_pages > 1 %}
+<div class="pagination-wrapper">
+    <div class="pagination">
+        <div class="page prev">
+            {% if paginator.previous_page %}
+                <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+            {% else %}
+                <span>&laquo; Prev</span>
+            {% endif %}
+        </div>
+
+        {% for page in (1..paginator.total_pages) %}
+            <div class="page">
+                {% if page == paginator.page %}
+                    <span>{{ page }}</span>
+                {% elsif page == 1 %}
+                    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+                {% else %}
+                    <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+                {% endif %}
+            </div>
+        {% endfor %}
+
+        <div class="page next">
+            {% if paginator.next_page %}
+                <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+            {% else %}
+                <span>Next &raquo;</span>
+            {% endif %}
+        </div>
+    </div>
+</div>
+{% endif %}

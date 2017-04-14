@@ -17,6 +17,14 @@
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
+  min-height: 60px;
+
+  img {
+      height: 50px;
+      padding: 0;
+      margin: 5px 5px 5px 0;
+      vertical-align: middle;
+  }
 
   &,
   &:visited {
@@ -87,6 +95,32 @@
   }
 }
 
+.pagination-wrapper {
+    text-align: center;
+.pagination {
+        display: inline-block;
+        text-align: center;
+        margin: 0 auto;
+        border: 1px solid $grey-color-light;
+        border-radius: 5px;
+
+        .page {
+            display: inline-block;
+            padding: 0.5em;
+            min-width: 1em;
+            border-right: 1px solid $grey-color-light;
+
+            &:last-of-type {
+                border-right: none;
+            }
+
+            span {
+                color: $grey-color;
+            }
+        }
+    }
+}
+
 
 
 /**
@@ -122,13 +156,25 @@
 }
 
 .footer-col-1 {
-  width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-  width:         calc(35% - (#{$spacing-unit} / 2));
+  width: -webkit-calc(25% - (#{$spacing-unit} / 2));
+  width:         calc(25% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-2 {
-  width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-  width:         calc(20% - (#{$spacing-unit} / 2));
+  width: -webkit-calc(30% - (#{$spacing-unit} / 2));
+  width:         calc(30% - (#{$spacing-unit} / 2));
+}
+
+.footer-col-2 .expand {
+    height: 0px;
+    opacity: 0;
+    overflow: hidden;
+    transition: all 0.25s linear;
+}
+.footer-col-2:hover .expand {
+    height: 9em;
+    opacity: 1;
+    overflow: scroll;
 }
 
 .footer-col-3 {

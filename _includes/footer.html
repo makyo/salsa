@@ -8,25 +8,20 @@
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
           <li>
-            {% if site.author %}
-              {{ site.author | escape }}
-            {% else %}
-              {{ site.title | escape }}
-            {% endif %}
-            </li>
-            {% if site.email %}
-            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {% endif %}
             <li>{% include icon-twitter.html username="salsa_fyi" %}</li>
             <li>{% include icon-github.html repo="makyo/salsa" %}</li>
         </ul>
       </div>
 
       <div class="footer-col footer-col-2">
+          <p>
+              <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />
+              <div class="expand">This work by <a xmlns:cc="http://creativecommons.org/ns#" href="http://strangeanimals.likingstrange.audio" property="cc:attributionName" rel="cc:attributionURL">Strange Animals Liking Strange Audio</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</div>
+          </p>
       </div>
 
       <div class="footer-col footer-col-3">
-        <p><img src="/assets/salsa-logo.png" style="float: left; height: 75px; border: 2px solid #424242; margin-right: 0.5em;" />{{ site.description | escape }}</p>
+        <p><img src="/assets/salsa-logo-border.png" style="float: left; height: 75px;margin-right: 0.5em;" />{{ site.description | escape }}</p>
       </div>
     </div>
 

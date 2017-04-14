@@ -86,6 +86,16 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
+/**
+ * HRs
+ */
+hr {
+    border: 0;
+    height: 0;
+    border-top: 1px solid $grey-color-light;
+    margin: 0.75em 0;
+}
+
 
 /**
  * Links
