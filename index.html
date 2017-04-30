@@ -14,7 +14,7 @@ layout: home
                 <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
             </h2>
             {{ post.excerpt }}
-            <p><a href="{{ post.url | relative_url }}">&rarr; Read more...</a></p>
+            <p><a href="{{ post.url | relative_url }}">Read more &rarr;</a></p>
         </li>
     {% endfor %}
 </ul>
