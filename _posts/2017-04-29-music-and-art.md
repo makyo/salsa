@@ -11,7 +11,8 @@ To start things off, here's a convenient playlist of the music I'll be yapping a
 
 Porcupine Tree- Trains (art by [Demicoeur](http://furaffinity.net/user/demicoeur))
 =============
-<img src="http://d.facdn.net/art/forneus/1339035956/1339035956.forneus_1339009769.demicoeur_39.jpg"/>
+
+![Musicat 1](/assets/posts/musicat-1.jpg)
 
 "Trains" is the best song on _In Absentia_ by a mile, and probably the most important Porcupine Tree song to me personally. There was a time in my life (my extremely depressive junior year of college) in which I did nothing but listen to _In Absentia_, Muse's _Origin of Symmetry_, and the then-discography of Imogen Heap. It wouldn't be fair to say that "Trains" is PT's depressed teenager song (because the entirety of _Fear of a Blank Planet_ is depressed teenager songs), but it resonated with me in a way that very, very few other such songs do. "Things are shit, and things are about to not be shit for a minute, but what if things go back to being shit again, also, here's a two-minute ukulele solo."
 
@@ -19,13 +20,15 @@ The artist went for more of a literal interpretation: the seasons are changing, 
 
 She- Make Me Real (art by [Grey White](http://greywhiteart.com))
 =============
-<img src="http://d.facdn.net/art/forneus/1340847206/1340847206.forneus_make_me_real_lores.jpg"/>
+
+![Musicat 2](/assets/posts/musicat-2.jpg)
 
 I don't think I could actually explain who is and isn't a She project at this point (made somewhat worse by the fact that the producer chose a name that's impossible to search), but this track rules. I've heard She's music described as "organic electronic" (along with [Zircon](https://zirconstudios.bandcamp.com/album/identity-sequence), who might eventually also be on this list somewhere), and that's exactly what I got here. A cat, a robot, in space, maybe? It's all very postfurry. I think there's a hashtag for that these days.
 
 Caspian- The Raven (art by [Lundi](http://sleeprealms.tumblr.com/))
 ===========
-<img src="http://d.facdn.net/art/forneus/1356076273/1356076273.forneus_1356067168.lundi_forneus.png"/>
+
+![Musicat 3](/assets/posts/musicat-3.png)
 
 Confession: I had to try really, really hard to avoid making this project just be hundreds of post-rock tracks. (I did, admittedly, just attempt to add "Mladic" to this list; we'll see if the artist balks at "here's a twenty-minute track inspired by a war criminal.") Anyway, Caspian is great, and this is exactly what I'd hoped to get when I commissioned it: it's brooding, it's moody, it's evocative as hell, it makes me feel like it's about to explode into something really rad. Basically, it's post-rock distilled into art form, but with a bipedal fish. (And, let's be real, most bands benefit from a bipedal fish.)
 
@@ -33,7 +36,8 @@ Confession: I had to try really, really hard to avoid making this project just b
 
 65daysofstatic- Unmake The Wild Light (art also by Grey White, above)
 ============
-<img src="http://d.facdn.net/art/forneus/1426561423/1426561423.forneus_forneus-unmake-the-wild-light.jpg"/>
+
+![Musicat 4](/assets/posts/musicat-4.jpg)
 
 Of course, immediately after writing "avoid making this project just be hundreds of post-rock tracks", here's another one. I never said I was good at following up on things.
 
@@ -41,7 +45,8 @@ Of course, immediately after writing "avoid making this project just be hundreds
 
 Henry Homesweet- Evolver (art by [sky3](http://www.furaffinity.net/user/sky3))
 ============
-<img src="http://d.facdn.net/art/forneus/1460563469/1460563469.forneus_evolver.png"/>
+
+![Musicat 5](/assets/posts/musicat-5.png)
 
 Lastly, we have this, from _Enter 5D_, one of my favorite electronic albums of all time. Musically, I'm incredibly fond of albums that listen well as albums, not collections of singles, and I've legitimately lost count of the number of times that I've started listening to "Critical Buddha" and then an hour has disappeared. It's that good.
 
