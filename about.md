@@ -23,6 +23,7 @@ This kinda shifts, but here are some notables:
 * Makyo did some web stuff
 * Amdusias meowed a lot and also wrote
 * lorxus was a fox and used a lot of stickers and promised to write
+* Yeah but like, Proxy's a really good cat
 
 Basically, as folks (promise to) write, they'll be added here. There's a boatload of other fuzzies in the chat.
 
