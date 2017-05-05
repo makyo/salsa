@@ -6,16 +6,16 @@ date: 2017-05-07
 ---
 
 <style>
-iframe { margin: 0 auto; display: block; }
+iframe { margin: 0 auto; display: block; width: 100%; }
 </style>
 
 Welcome to The SALSA Weekly! The SALSA Weekly is a curated playlist/post on the blog, wherein members of SALSA will submit one song they have been digging the past week and why.
 
 ## The List
 
-For your listening pleasure, here are our picks in one handy dandy [Spotify playlist](https://open.spotify.com/user/forneuslex/playlist/0ywCUtbkTV99owrMnxf3Ic)!
+For your listening pleasure, here are our picks in one handy dandy [Spotify playlist](https://open.spotify.com/user/forneuslex/playlist/0ywCUtbkTV99owrMnxf3Ic). Scroll down for our reasons!
 
-<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Aforneuslex%3Aplaylist%3A0ywCUtbkTV99owrMnxf3Ic" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Aforneuslex%3Aplaylist%3A0ywCUtbkTV99owrMnxf3Ic" height="380" frameborder="0" allowtransparency="true"></iframe>
 
 -----
 
