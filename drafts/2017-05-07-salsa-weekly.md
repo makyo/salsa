@@ -13,7 +13,7 @@ Welcome to The SALSA Weekly! The SALSA Weekly is a curated playlist/post on the 
 
 ## The List
 
-For your listening pleasure, here are our picks in one handy dandy [Spotify playlist](https://open.spotify.com/user/forneuslex/playlist/0ywCUtbkTV99owrMnxf3Ic). Scroll down for our reasons!
+For your listening pleasure, here are our picks in one handy dandy [Spotify playlist](https://open.spotify.com/user/forneuslex/playlist/0ywCUtbkTV99owrMnxf3Ic). Scroll down for what we have to say!
 
 <iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Aforneuslex%3Aplaylist%3A0ywCUtbkTV99owrMnxf3Ic" height="380" frameborder="0" allowtransparency="true"></iframe>
 
