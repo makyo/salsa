@@ -19,6 +19,12 @@ For your listening pleasure, here are our picks in one handy dandy [Spotify play
 
 -----
 
+## Makyo: [*4lung --- [SIDE A]: NIGHTMARES LIGHTNING EARTH CRUSHER DELUXE*](https://4lung.bandcamp.com/track/side-a-nightmares-lightning-earth-crusher-deluxe)
+
+I CHANGED MY PICK AT THE LAST MINUTE BECAUSE THIS ONE HAS HAD ME GOING ALL WEEK, ACTUALLY, AND THE ALBUM IS CALLED NAUGHTY DOGGY'S TERRIBLE BADTIME TRAPCORE HELL FOR GIRLS SO I HAD TO LISTEN. IT'S FAST AS HELL WITH LOTS OF SNARES AND IS BASICALLY MUSIC IN ALL CAPS
+
+[Full Album](https://4lung.bandcamp.com/album/naughty-doggys-terrible-badtime-trapcore-hell-for-girls)
+
 ## Cyric: [*Zeal and Ardor --- Blood in the River*](https://open.spotify.com/track/3de3pLWU48fpTNlSuM6tyR)
 
 Ask me a week ago, and I would have told you a mixture of black metal and bluesy, spiritual chanting wasn't a thing. But then I found this project album and, well, here we are. I've been digging it, and at the very least it's interesting, even if neither of those things are your favorite genre.
@@ -30,10 +36,6 @@ I'm personally a sucker for scales/arpeggios/repetitive melody, as well as soft 
 ## Lu: [*Trixie Mattel --- Make Up Your Mind*](https://open.spotify.com/track/3ihxhLPBvQd2EGGGAqfrlC)
 
 Music by drag queens tends to be jokey dance-pop. Trixie Mattel eschews this with a flat-out amazing country-folk EP, which ranges from 80s Dolly Parton to 60s Loretta Lynn. But this song not only is a fun floor-stomper, but manages to have an entire verse about someone's commitment being like a wounded werewolf, so extra points for pure originality.
-
-## Makyo: [*William Harris --- Faire is the Heaven*](https://open.spotify.com/track/3uhkOBAyzEkg3FJCRWBMYN)
-
-I got a ton of really cool music tossed at me this week, but with stress, I've been turning to music I've memorized, in this case from choir in university. "I want music, I want to know it, and I want to sing along"
 
 ## veckus: [*Tim Hecker --- Black Refraction*](https://open.spotify.com/track/4FTPWFrUzsZUYvIC1VSBxU)
 
