@@ -37,3 +37,14 @@ $on-laptop:        800px;
 
 // Import partials from the `minima` theme.
 @import "minima";
+
+hr {
+    border: none;
+    width: 3em;
+    margin: 1em auto 2em auto;
+
+    &:before {
+        content: "— ☆ —";
+        font-size: 6pt;
+    }
+}
