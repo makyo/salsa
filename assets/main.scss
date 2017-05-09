@@ -46,5 +46,30 @@ hr {
     &:before {
         content: "— ☆ —";
         font-size: 6pt;
+        font-weight: bold;
+    }
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 1em;
+
+    thead tr th {
+        border-bottom: 2px solid $grey-color-dark;
+    }
+
+    tbody tr {
+        &:nth-of-type(odd) {
+            background-color: lighten($grey-color-light, 5%);
+        }
+
+        td {
+            padding: 0.25em 0.5em;
+
+            &:not(:last-of-type) {
+                border-right: 1px solid $grey-color-light;
+            }
+        }
     }
 }
