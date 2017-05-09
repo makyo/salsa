@@ -2,6 +2,7 @@
 layout: post
 title: Hyperspecific Playlists
 author: The SALSAzens
+date: 2017-05-09
 ---
 
 * [**Songs About Girls Receiving Puppets That May Be Satan From Strange Men**](https://open.spotify.com/user/drabmakyo/playlist/1a9rroina9qiLX8Qm2XQem)
