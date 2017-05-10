@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Hyperspecific Playlists
-author: The SALSAzens
-date: 2017-05-09
+author: Makyo and Amdusias
 ---
 
 For when the mood strikes and nothing else will do.
