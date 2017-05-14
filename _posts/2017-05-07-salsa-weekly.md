@@ -13,9 +13,9 @@ iframe { margin: 0 auto; display: block; width: 100%; }
 
 ## The List
 
-For your listening pleasure, here are our picks in one handy dandy [Spotify playlist](https://open.spotify.com/user/lunostophiles/playlist/0MmVHOmXLxgVGQmvlFcpZ5). Scroll down for what we have to say!
+For your listening pleasure, here are our picks in one handy dandy [Spotify playlist](https://open.spotify.com/user/lunostophiles/playlist/04xzatjKlxy8IwkXpKbnEz). Scroll down for what we have to say!
 
-<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Alunostophiles%3Aplaylist%3A0MmVHOmXLxgVGQmvlFcpZ5" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+<iframe src="https://open.spotify.com/embed/user/lunostophiles/playlist/04xzatjKlxy8IwkXpKbnEz" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
 
 -----
 
