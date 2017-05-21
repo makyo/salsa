@@ -5,19 +5,11 @@ title: About
 
 *Strange Animals Liking Strange Audio*, or *SALSA*, is a group of fuzzy, fuzzy-adjacent, and fuzzy-minded individuals and pluralities who really, **really** dig music. It takes the form of a Telegram chat, but spins off side-projects such as this and a Dubtrack site. This site serves as a blog;  S.A.L.S.A. has been going for a while now, and we all have some good thoughts on music --- stuff we like, stuff we don't, etc. --- and this would be a good place to put them so that we can share.
 
+[Here](/who) are some of the folks in the chat.
+
 -----
 
-## Who
-
-This kinda shifts, folks are free to come and go as they want. As folks (promise to) write, they'll be added here. There's a boatload of other fuzzies in the chat.
-
-Who | Wat
----|---
-Lunostophiles | kinda pulled things together
-Makyo | did some web stuff
-Amdusias | meowed a lot and also wrote
-Lorxus | was a fox and used a lot of stickers and promised to write
-Proxy | Yeah but like, Proxy's a really good cat
+## The Chat
 
 Not on the telegram chat? Want to be? Just drop one of us a line (or email Makyo as below)!
 
