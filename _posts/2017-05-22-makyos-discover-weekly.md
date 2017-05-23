@@ -12,4 +12,4 @@ What the *heck* is the first song here, hahahah. It's...prog-metal with a cappel
 
 Back on to some more traditional prog with Consider the Source's *Closer to Home*. I like me some crazy fuckin' slap bass, and that weird synth filter, the one that sounds like Ratatat. In fact, it sounds like a weird, super proggy version of Ratatat in a lot of ways. I dig it.
 
-Finish out with some chill dark lounge. Heck yeah. I could nod to this with a knowing smirk on my face any day of the week.
+Finish out with some chill dark lounge. Heck yeah. I could nod to this with a knowing smirk on my face (as one does with dark lounge) any day of the week.
