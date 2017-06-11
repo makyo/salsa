@@ -22,6 +22,8 @@ For your listening pleasure, here are our picks in one handy dandy [Spotify play
 
 So, we were talking about music that induces a frisson - in the ASMR sense - in the chat, and we started to discuss songs that induce that sensation in us. I had two examples, both Shostakovich, which do that for me (the other is the first movement of his 4th string quartet, which I offered up once when asked what piece of music would I share with someone hearing for the first time). The entirety of the 12th is wonderful, and the entirety of the second movement in particular, but it isn't until the last five minutes that it becomes frissonable material for me. The jarring alarm feeling from the opening of the movement becomes a quiet, delicate break of the clouds, and as it becomes stronger and more assertive, everything suddenly gets clearer, like the sun steaming rain off sidewalks (to take that metaphor too far). The triumphant end in this recording deserves every bit of the hollering applause at the end.
 
+Also: sorry for leading with a 20 minute classical piece. We sort our Weekly lists by URL (which is pretty random), and this wound up on top!
+
 ## Alteq's first: [*Tennis --- Origins*](https://open.spotify.com/track/0PP4DZw3cg3mq9JqO0a4rN)
 
 Gosh I love Tennis. Alaina Moore has some lovely vocals, and I really enjoy the hum/buzzy bass in this track.
