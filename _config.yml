@@ -25,7 +25,7 @@ disqus:
   shortname: strange-animals
 
 # Build settings
-paginate: 5
+paginate: 10
 paginate_path: '/page/:num/'
 permalink: pretty
 markdown: kramdown
