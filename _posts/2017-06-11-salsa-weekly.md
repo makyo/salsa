@@ -56,7 +56,7 @@ Hah, yeah, me neither, of course, wouldn't that be weird, good thing we're insul
 
 ## Makyo's second: [*Amon Tobin --- Journeyman*](https://open.spotify.com/track/687qZGqKcVN9g3obktSKHk)
 
-I know ISAM made a big splash when it came out, at least among the folks I follow on twitter, and the tour that went along with it looked cool as hell. Still, I didn't really listen until just recently after listening to a mixtape by Eskmo (which is fantastic and you should listen to that too). I'm not a huge fan of the rest of the album, but Journeyman is wonderful. It's very...hm. Very decisive, assertive, and doom-y --- with doom being sort of the old sense of a judgement or decision about one's future. I dig it.
+I know ISAM made a big splash when it came out, at least among the folks I follow on twitter, and the tour that went along with it looked cool as hell. Still, I didn't really listen until just recently after listening to a mixtape by Eskmo (which is fantastic and you should [listen to that too](https://www.youtube.com/watch?v=KQBeNwFMFR0)). I'm not a huge fan of the rest of the album, but Journeyman is wonderful. It's very...hm. Very decisive, assertive, and doom-y --- with doom being sort of the old sense of a judgement or decision about one's future. I dig it.
 
 ## Proxy's second: [*HEALTH --- Die Slow*](https://open.spotify.com/track/6sw45vGKfPwXHkyhe0akAE)
 

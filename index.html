@@ -11,7 +11,7 @@ layout: home
             <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} &bull; {{ post.author }}{% endif %}</span>
 
             <h2>
-                <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+                <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
             </h2>
             {{ post.excerpt }}
             <p><a href="{{ post.url | relative_url }}">Read more &rarr;</a></p>

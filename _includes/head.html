@@ -3,7 +3,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>{% if page.title %}{{ page.title | escape }} | {% else %}{% if post.title %}{{ post.title | escape }} | {% endif %}{% endif %}{{ site.title | escape }}</title>
+    <title>{% if page.title %}{{ page.title }} | {% else %}{% if post.title %}{{ post.title | escape }} | {% endif %}{% endif %}{{ site.title | escape }}</title>
 
     <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
     <link rel="shortcut icon" href="/assets/salsa-logo-border.small.png" />

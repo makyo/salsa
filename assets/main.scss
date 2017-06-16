@@ -78,3 +78,13 @@ table {
     font-size: 9pt;
     text-align: center;
 }
+
+dl {
+    dt {
+        font-weight: bold;
+    }
+
+    dd {
+        padding-left: 2em;
+    }
+}
