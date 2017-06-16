@@ -20,6 +20,8 @@ A few of their previous albums are on Spotify (minus Poisson Soluble, as mention
 
 I hope you like harpsichords and metal.
 
+Oh, also, *massive* CW for flashing images on all the videos below. Each one features lots.
+
 -----
 
 ## Making the album
