@@ -18,8 +18,6 @@ For your listening pleasure, here are our picks in one handy dandy [Spotify play
 
 -----
 
-Name,Artist - Song Title,Why you dig it,Where to find it,Link just in case
-
 {% for entry in site.data.weekly-2017-06-25 %}
 ## {{ entry["Name"] }}: [*{{ entry["Artist - Song Title"]|replace: "-", "---"|markdown }}*]({{ entry["Link just in case"] }})
 
