@@ -24,7 +24,23 @@ dd {
 }
 </style>
 
-Who is in the chat kinda shifts, folks are free to come and go as they want. As folks give Makyo info, they'll be added here. There's a boatload of other fuzzies in the chat.
+Who is in the chat kinda shifts, folks are free to come and go as they want. As folks write, they'll be added here. There's a boatload of other fuzzies in the chat.
+
+## Amdusias
+
+![Amdusias](/assets/who/amdusias.jpg){: class="who" }
+
+Species
+:   Cat
+
+Favorite meter
+:   <sup>19</sup>/<sub>32</sub>
+
+Twitter
+:   [@forneuslex](https://twitter.com/forneuslex)
+
+Telegram
+:   *Private*
 
 ## Lorxus
 
@@ -41,6 +57,22 @@ Twitter
 
 Telegram
 :   [@coronacoreanici](https://t.me/coronacoreanici)
+
+## Lunostophiles
+
+![Lunostophiles](/assets/who/lunostophiles.jpg){: class="who" }
+
+Species
+:   Hellbeast
+
+Optimism style
+:   Relentless
+
+Twitter
+:   [@lunostophiles](https://twitter.com/lunostophiles)
+
+Telegram
+:   [@lunostophiles](https://t.me/lunostophiles)
 
 ## Makyo
 
