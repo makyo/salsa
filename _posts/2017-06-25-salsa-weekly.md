@@ -22,4 +22,6 @@ For your listening pleasure, here are our picks in one handy dandy [Spotify play
 ## {{ entry["Name"] }}: [*{{ entry["Artist - Song Title"]|replace: "-", "---"|markdown }}*]({{ entry["Link just in case"] }})
 
 {{ entry["Why you dig it"]|markdown }}
+
+<small>Found on: <em>{{ entry["Where to find it"] }}</em></small>
 {% endfor %}
