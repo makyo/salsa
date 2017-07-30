@@ -21,7 +21,7 @@ For your listening pleasure, here are our picks in one handy dandy [Spotify play
 {% for entry in site.data.weekly-2017-07-30 %}
 ## {{ entry["Name"] }}: [*{{ entry["Artist - Song Title"]|replace: "-", "---"|markdown }}*]({{ entry["Link just in case"] }})
 
-{{ entry["Why you dig it"]|markdown }}
+{{ entry["Why you dig it (HTML and Markdown okay)"]|markdown }}
 
 <small>Found on: <em>{{ entry["Where to find it"] }}</em></small>
 {% endfor %}
