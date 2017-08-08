@@ -89,3 +89,19 @@ Twitter
 
 Telegram
 :   [@DrabMakyo](https://t.me/DrabMakyo)
+
+## Proxy
+
+![Proxy](/assets/who/proxy.jpg){: class="who" }
+
+Species
+:   Cat
+
+Purple
+:   Purple
+
+Twitter
+:   [@FuzzyProxy](https://twitter.com/FuzzyProxy)
+
+Telegram
+:   [@FuzzyProxy](https://t.me/FuzzyProxy)
