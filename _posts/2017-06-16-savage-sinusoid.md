@@ -66,7 +66,7 @@ I'm so fucking sold on accordions in metal, as is evidenced with my fascination 
 
 This is one of the other songs which was released as a video before release. We lead with speedy break drums and rapid chords getting the occasional brush-stroke of glitching. In comes the harpsichord, because of course, which spins down a glitchy hole into the previous chord progression turned into slower metal guitars and screeching, plus some of Laure Le Prunenec's operatics, some dissonant classical guitar, and then sitar, of all things. I love the way Laure Le Prunenec's voice falls apart into impassioned yelling. Metal fades to mistuned voices and ends with a sudden stop.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UZzYxGZ7Hmc" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rEuMAqfuCrI" frameborder="0" allowfullscreen></iframe>
 
 ### Probl&egrave;me d'&eacute;motion
 
@@ -80,7 +80,7 @@ We lead with delicate classical guitar (which I suspect may be Actual Bach, but 
 
 This was another early release (though only by a few days) that came with a video. The video was, admittedly, just go-pros and cameras focused on the musicians. The drums are nice and slow as the accompany another rockin' accordion riff. Add in some screaming (more screaming!) and drunken sing-a-longs, and we're good to go. The accordion's the real star, though, even though it's accompanied by all these wonderful bits and bobs, like the plucked bass and doomful growls.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rEuMAqfuCrI" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UZzYxGZ7Hmc" frameborder="0" allowfullscreen></iframe>
 
 ### Apopathodiaphulataphobie
 
