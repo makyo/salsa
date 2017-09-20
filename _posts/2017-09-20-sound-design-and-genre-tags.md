@@ -18,7 +18,7 @@ That, after all, is what makes film its own unique art form.
 
 ## Three Approaches to Battle
 
-I love sci-fi, speculative fiction, and other forms of --- *gasp* --- genre fiction. I have a very hard time writing it, despite reading and watching so much of it, though, so I try my best to learn from what I see.
+I love sci-fi, speculative fiction, and other forms of --- *gasp* --- genre fiction, an unfairly maligned term used to differentiate such writings from the more serious Literature. I have a very hard time writing it, despite reading and watching so much of it, though, so I try my best to learn from what I see.
 
 One of the big things that comes out of genre fic, though certainly not the only thing, is action and battle. This is especially prevalent in film, as this makes for a very impressive scene or act.
 
@@ -114,7 +114,7 @@ The movie just happens at the pace of a heavily regimented life aboard a space s
 
 As before, there is a climax of the movie, but it's a confusing one. The intensity grows to the point where we're preparing to abandon the space station. We move forward to back on earth, then realize that, no, the stress has become too much, and we're lost. And then...we don't have to think that way anymore.
 
-<iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A6HSPvO0VOv1nRUKpvJr5C1" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+<iframe src="https://embed.spotify.com/?uri=spotify%3Aalbum%3A7vgPMuPh0HhZM9E1jkF6Mw" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
 
 I will unabashedly admit that this is my one hundred percent absolute favorite soundtrack of all time. It's great on its own, and it's --- wait for it --- stellar with the film. Please, please, do yourself a favor and [check it out](https://open.spotify.com/album/7vgPMuPh0HhZM9E1jkF6Mw). Plus, it's by Cliff Martinez, of Red Hot Chili Peppers fame.
 
