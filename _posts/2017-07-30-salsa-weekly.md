@@ -4,7 +4,7 @@ title: "The SALSA Weekly: 7/30"
 author: The SALSAzens
 ---
 
-Welcome to The SALSA Weekly! The SALSA Weekly is a curated playlist/post on the blog, wherein members of SALSA will submit one song they have been digging the past week and why.
+Welcome to [The SALSA Weekly](/weekly)! The SALSA Weekly is a curated playlist/post on the blog, wherein members of SALSA will submit one song they have been digging the past week and why.
 
 <style>
 iframe { margin: 0 auto; display: block; width: 100%; }

@@ -4,7 +4,7 @@ title: "The SALSA Weekly: 5/21"
 author: The SALSAzens
 ---
 
-Welcome to The SALSA Weekly! The SALSA Weekly is a curated playlist/post on the blog, wherein members of SALSA will submit one song they have been digging the past week and why.
+Welcome to [The SALSA Weekly](/weekly)! The SALSA Weekly is a curated playlist/post on the blog, wherein members of SALSA will submit one song they have been digging the past week and why.
 
 <style>
 iframe { margin: 0 auto; display: block; width: 100%; }
@@ -58,7 +58,7 @@ Dusky’s album Outer was one of my top three records of last year, with “Ingr
 
 ## Danger: [*Lully --- Slow D's*](https://www.youtube.com/watch?v=ltVr-VaD7H0)
 
-I heard this on a playlist released by the gorillaz leading up to the release of "Humans". This particular playlist was curated by Noodle with the theme of "Awesome women in music. Theres something very off kilter in the right way about the fluctuating modulation in the vocals in the chorus mixed with the steady bass and plethora of organic minutiae (the bird calls, the shallow breaths0 that just builds up to a mood and sits just right for me. 
+I heard this on a playlist released by the gorillaz leading up to the release of "Humans". This particular playlist was curated by Noodle with the theme of "Awesome women in music. Theres something very off kilter in the right way about the fluctuating modulation in the vocals in the chorus mixed with the steady bass and plethora of organic minutiae (the bird calls, the shallow breaths0 that just builds up to a mood and sits just right for me.
 
 ## Lorxus: [*Scale the Summit --- Atlas Novus*](https://open.spotify.com/track/02v81HQA1yS0DSZ4dw3YzF)
 

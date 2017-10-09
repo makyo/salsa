@@ -7,6 +7,21 @@ for dorks in os.listdir('_data'):
     with open('_data/{}'.format(dorks)) as f:
         reader = csv.DictReader(f)
         for row in reader:
-            wow.append(row['Where to find it'])
+            what = row.get('Where to find it', row.get(
+                'Why you dig it (HTML and Markdown okay)'))
+            if what is not None and what not in wow:
+                wow.append(what)
 
-print('\n'.join(wow))
+with open('dorks.txt', 'w') as f:
+    f.write('\n'.join(wow))
+
+header = """---
+layout: default
+title: "Things we've called Spotify"
+---
+
+"""
+with open('dorks.md', 'w') as f:
+    f.write(header)
+    for what in wow:
+        f.write('* {}\n'.format(what))

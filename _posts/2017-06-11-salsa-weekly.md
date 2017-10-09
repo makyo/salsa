@@ -4,7 +4,7 @@ title: "The SALSA Weekly: 6/11"
 author: The SALSAzens
 ---
 
-Welcome to The SALSA Weekly! The SALSA Weekly is a curated playlist/post on the blog, wherein members of SALSA will submit one song they have been digging the past week and why. This week was a double dip --- A bunch of us were out of town last weekend, so we didn't have a chance for the post then. We're catching up this week with a few songs each.
+Welcome to [The SALSA Weekly](/weekly)! The SALSA Weekly is a curated playlist/post on the blog, wherein members of SALSA will submit one song they have been digging the past week and why. This week was a double dip --- A bunch of us were out of town last weekend, so we didn't have a chance for the post then. We're catching up this week with a few songs each.
 
 <style>
 iframe { margin: 0 auto; display: block; width: 100%; }
