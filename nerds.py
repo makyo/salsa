@@ -16,7 +16,7 @@ with open('dorks.txt', 'w') as f:
     f.write('\n'.join(wow))
 
 header = """---
-layout: default
+layout: page
 title: "Things we've called Spotify"
 ---
 
