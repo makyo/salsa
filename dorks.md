@@ -102,3 +102,11 @@ title: "Things we've called Spotify"
 * The center of the sun
 * YouTube, apply directly to the forehead.
 * TouYube
+* Spotisaurus Rex
+* I'm gonna get out of here.
+* Spotiotiotiotiotiotiotiotiotiotiotiotiotiotiotiotiotiotify
+* slash spoof
+* Spotted flies
+* Go Get 'Em, Sportify
+* Superspotifragilisticexpialidofy
+* Spotife Vobiscum
