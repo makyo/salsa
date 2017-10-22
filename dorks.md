@@ -110,3 +110,9 @@ title: "Things we've called Spotify"
 * Go Get 'Em, Sportify
 * Superspotifragilisticexpialidofy
 * Spotife Vobiscum
+* Spot Vincent
+* The source that you ought to see, not what it turned out to be.
+* The SALSA Enrichment Center reminds you that Spotify hell is a real place where you will be sent at the first sign of defiance
+* Suspended, as in heavy syrup, in a bubble of endless hyperbolic space
+* The 2020 Spotlympics
+* And the dish ran away with the Spoot
