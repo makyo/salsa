@@ -116,3 +116,9 @@ title: "Things we've called Spotify"
 * Suspended, as in heavy syrup, in a bubble of endless hyperbolic space
 * The 2020 Spotlympics
 * And the dish ran away with the Spoot
+* Drunk at a con
+* See this Spotify, watch this Spotify flooooow~
+* Spotifoo-fighters
+* Spotifrou
+* Spotify for queer people
+* SoundCloud! WAIT SHOOT IT'S NOT A SPOTIFY PUN HELP HELP HELP
