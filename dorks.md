@@ -129,3 +129,8 @@ title: "Things we've called Spotify"
 * Gregg Spopovich
 * The eighth song on the A-side of a tape cassette, the case and tracklist long since missing, passed from hand to hand since time out of memory. It's been labelled at least five times that you can see on one side, and three on the other - on what you take to be the obverse, a neat cursive hand has marked "A Side: Mixtape for G", but the reverse is marked "B-Side: ⭐FUCK JAMZ⭐" in a messier, more angular style. It takes you a week to track down anything that can even play the thing anymore, and when you do, you can't recognize a single song, and neither can Shazam, but every song seems to be in a deeply familiar style. Two weeks later you pass it on to a friend you met in a music chat and never see or hear of it again, but a song from it will occasionally waft through your dreams as if playing quietly in a nearby room.
 * COOKIN UP A GOOD HEX
+* silverladder.com - 11/11
+* hey friends can you really believe that in the year 2017 one of the best electronic tracks samples a rap track that goes hard on the Yu-Gi-Oh! references because i can totally believe it, also, spotify
+* What's green and sits on your front porch? Patty O'Furniture. (Also Spotify.)
+* Spotsakovich
+* Not Spotify? Really!? How are we going to make puns now? D:
