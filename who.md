@@ -63,7 +63,7 @@ Telegram
 ![Lunostophiles](/assets/who/lunostophiles.jpg){: class="who" }
 
 Species
-:   Hellbeast
+:   Orc, or [vague hand wave]
 
 Optimism style
 :   Relentless
