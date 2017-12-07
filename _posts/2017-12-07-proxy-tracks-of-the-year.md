@@ -4,10 +4,6 @@ title: "Proxy's Top Five Tracks of 2017"
 author: Proxy
 ---
 
-<style>
-iframe { margin: 0 auto; display: block; width: 100%; }
-</style>
-
 Coming up with a top 5 tracks for the year was shockingly easy compared to previous years. Normally I am much more of an album-based listener, caring more about how a track works in to an album's overall context rather than just how it stands on its own. But there have been a lot of great albums and songs that both stand out on their own and within the context of the record.
 
 Honorable mentions: Grizzly Bear - "Three Rings", Makthaverskan - "In My Dreams", Shamir - "Straight Boy", The Body & Full Of Hell - "Earth is a Cage", Fever Ray - "To The Moon And Back", Sampha - "Blood On Me", Converge - "Arkhipov Calm", St. Vincent - "New York"
@@ -55,6 +51,10 @@ Back"](https://open.spotify.com/track/4fNhbNbIsjEygIVCPoyQs7) (*Turn Out The Lig
    One line still hits me every day: "I think I can love the sickness you've made//'cause I take it all back, I've changed my mind//I wanted to stay". This is the first step in reclaiming your own life from your mental illness, as well as acknowledging that it will always be with you, but it will not beat you. During this turbulent year, this has been a necessary thing to continue to tell myself.
 
    I'm glad I'm still here and that I heard this track.
+
+<style>
+iframe { margin: 0 auto; display: block; width: 100%; }
+</style>
 
 ## The Top 5
 
