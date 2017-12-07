@@ -8,7 +8,7 @@ Coming up with a top 5 tracks for the year was shockingly easy compared to previ
 
 Honorable mentions: Grizzly Bear - "Three Rings", Makthaverskan - "In My Dreams", Shamir - "Straight Boy", The Body & Full Of Hell - "Earth is a Cage", Fever Ray - "To The Moon And Back", Sampha - "Blood On Me", Converge - "Arkhipov Calm", St. Vincent - "New York"
 
-## 5. [Lorde - "Green Light"]() (*Melodrama*)
+## 5. [Lorde - "Green Light"](https://open.spotify.com/track/3I4QOvltiKcMu3xmnQjEct) (*Melodrama*)
 
 Ah, Lorde, bringing me my pop jam of the year! I think if my Spotify 2017 Wrapped list actually factored in my Spotify Canada listening or if I had Last.fm still, this would be the track I listened to the most this year. I was anticipating *Melodrama* rather heavily, but this track became my absolute *jam* over 2017. This is my honorary Robyn Award for 2017, being an intelligent pop song with emotional complexity while still being an absolute jam to dance to. I love how perfect the production is, with an enveloped kick and gradual layering of new elements while still having a solid, full core. It’s Jack Antonoff production at its best.
 
@@ -24,8 +24,7 @@ This may not be the most hard-hitting song on *Romaplasm* (that would easily be 
 
 Also, the large amounts of Evangelion references still rule.
 
-## 3. [Iglooghost - "White
-Gum"](https://open.spotify.com/track/0eGyjuJAfarmZzhE1XGcWQ) (*Neo Wax Bloom*)
+## 3. [Iglooghost - "White Gum"](https://open.spotify.com/track/0eGyjuJAfarmZzhE1XGcWQ) (*Neo Wax Bloom*)
 
 I just wrote about this one a little bit back for a SALSA Weekly! UK bass/IDM artist Iglooghost makes one of the most memorable tracks I've heard in years on an album filled to the brim with colourful tracks, the musical equivalent of a Jackson Pollock masterclass.
 
