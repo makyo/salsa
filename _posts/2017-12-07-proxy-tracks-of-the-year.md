@@ -6,7 +6,16 @@ author: Proxy
 
 Coming up with a top 5 tracks for the year was shockingly easy compared to previous years. Normally I am much more of an album-based listener, caring more about how a track works in to an album's overall context rather than just how it stands on its own. But there have been a lot of great albums and songs that both stand out on their own and within the context of the record.
 
-Honorable mentions: Grizzly Bear - "Three Rings", Makthaverskan - "In My Dreams", Shamir - "Straight Boy", The Body & Full Of Hell - "Earth is a Cage", Fever Ray - "To The Moon And Back", Sampha - "Blood On Me", Converge - "Arkhipov Calm", St. Vincent - "New York"
+Honorable mentions:
+
+* Grizzly Bear - "Three Rings"
+* Makthaverskan - "In My Dreams"
+* Shamir - "Straight Boy"
+* The Body & Full Of Hell - "Earth is a Cage"
+* Fever Ray - "To The Moon And Back"
+* Sampha - "Blood On Me"
+* Converge - "Arkhipov Calm"
+* St. Vincent - "New York"
 
 ## 5. [Lorde - "Green Light"](https://open.spotify.com/track/3I4QOvltiKcMu3xmnQjEct) (*Melodrama*)
 
