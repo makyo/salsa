@@ -20,7 +20,7 @@ src="https://open.spotify.com/embed/user/drabmakyo/playlist/4tJPkvq9uAIfzhWg3M6G
 
 -----
 
-{% for entry in site.data.weekly-2017-12-23 %}
+{% for entry in site.data.weekly-2017-12-24 %}
 ## {{ entry["Name"] }}: [*{{ entry["Artist - Song Title"]|replace: "-", "---"|markdown }}*]({{ entry["Link"] }})
 
 {{ entry["Why you dig it (HTML and Markdown okay)"]|markdown }}
