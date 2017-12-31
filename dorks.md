@@ -48,6 +48,13 @@ title: "Things we've called Spotify"
 * Spobify
 * Good ol' youtube
 * You, Tube!
+* Spotify, but it's in Finnish
+* Sphagnumify
+* Spink
+* Spotimento
+* The Yubtubs
+* Can be found on Spoofy also yuhtubs.
+* There are many recordings on both Spotify and YouTube. This is a good one in the link
 * I miss my friends too much to make a Spotify joke.
 * SPONGE
 * A slowly rotting fallen log, covered with ivy and first frost.
