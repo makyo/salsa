@@ -167,6 +167,9 @@ title: "Things we've called Spotify"
 * Spootles
 * Sboggle
 * lo zgike cu spofu
+* Snarkify
+* Did you know that the Rhine doesn't have a single distinct source? It's true!
+* Shponglefy
 * Compli- (compli-) cated (cated) compli- (compli-) cated (cated)
 * Cool Spot
 * Probably just Youtube, actually, not sure if Spotify has this one, or just PLAY VVVVVV for heck's sake, it's good
