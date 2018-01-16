@@ -39,6 +39,10 @@ title: "Things we've called Spotify"
 * 
 ʎɟᴉʇodS
 * Heh heh, Foxhole
+* DON'T YOU GET IT? IT'S MUSIC ALL THE WAY DOWN AHAHAHAHAHAHA
+* Sportizify
+* Spotiotiotiotiotify
+* Spiong.
 * Hornify
 * /hug
 * sporkiknyf
