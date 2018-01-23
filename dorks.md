@@ -167,6 +167,11 @@ title: "Things we've called Spotify"
 * Implacable snare drums
 * The brief but eternal realization that things may yet be OK in the end.
 * YOUTUBE
+* Flying Spotify Banana
+* Shamify
+* Neo-Spotopolis -- FUTURE YEAR: 2018
+* Spotty showers of snow that slushify the streets.
+* Asplundh
 * Fspotify
 * Spootles
 * Sboggle
