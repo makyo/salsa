@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The SALSA Weekly: 1/27"
+title: "The SALSA Weekly: 2/3"
 author: The SALSAzens
 ---
 
