@@ -94,6 +94,10 @@ title: "Things we've called Spotify"
 * Bee Movie (actually just Spotify)
 * Spootify
 * Spotify, ostensibly
+* Spotify Acapella 147 Times Exponentially Layered, only on ebaynetflix
+* it's coming it's coming it's hard
+* *bongos intensify*
+* *ḱerberós-ify
 * "Kincaid Plays Super Hawaii" (1999)
 * It's my Spotify, and I'll cry if I want to.
 * I'm glad I'm not in a movie or all this coughing would mean I'd die soon
