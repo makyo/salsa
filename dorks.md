@@ -138,6 +138,10 @@ title: "Things we've called Spotify"
 * The center of the sun
 * YouTube, apply directly to the forehead.
 * TouYube
+* I love wild things wildly, I love quiet things quietly, I love spotty things spotify...
+* The Twelve Spot Program
+* It's kind of a shame that thanks to The Election I'm not on speaking terms with the once-beloved uncle whose apartment I played Ratchet and Clank at for the first time, but memory is forever.
+* Spot Along
 * 🕴️ 
 * △▽△▽△▽△▽△▽△▽△▽△▽
 * ▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲
