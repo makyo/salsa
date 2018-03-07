@@ -14,6 +14,12 @@ title: "Things we've called Spotify"
 * What's green and sits on your front porch? Patty O'Furniture. (Also Spotify.)
 * Spotsakovich
 * Not Spotify? Really!? How are we going to make puns now? D:
+* I AM GRAVITY
+* Spotty Spotty Bonito
+* Yes
+* Roy Spattyify
+* I think my dad is worried about how much "Cat's in the Cradle" resembles our relationship
+* Spotify a.f.
 * Spot Vincent
 * The source that you ought to see, not what it turned out to be.
 * The SALSA Enrichment Center reminds you that Spotify hell is a real place where you will be sent at the first sign of defiance
