@@ -75,6 +75,15 @@ title: "Things we've called Spotify"
 * Snootify. I'm playing to the crowd.
 * Find out, on the next episode of Spotify Z
 * Spotify. Really? Yep! Just spootify this time. Wait. Shit.
+* BLUNT LOADED LIKE A FULL CLIP
+* How To Spotify & Make Friends
+* Spots & Ify's
+* Spotify, but 80s
+* Spotify 
+* SHAKE IT, SHAKE SHAKE IT, SHAKE IT, SHAKE SHAKE IT, SHAKE IT LIKE A POLAROID SPOOTY, HEY YA
+* Yuh-Tubs
+* Sporty Fly
+* Sbeepbeepbeep
 * You know the place
 * Would you take this six-fingered hand
 * Tritonify
