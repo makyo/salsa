@@ -125,6 +125,10 @@ title: "Things we've called Spotify"
 * Spooty Puff Jr.
 * Asunder, Spotify and other Distress
 * Yifftops
+* Bandcamp
+* Barely restrained unnamed emotions
+* in a hazy bar lit merely by fading neon signs. they serve two things: cheap beer and Spotify on the rocks
+* Spot & Arrow
 * Spopsicle
 * Simpleflips
 * Skramziflamz
