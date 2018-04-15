@@ -154,6 +154,11 @@ title: "Things we've called Spotify"
 * Spoodydoody
 * YouTube
 * A fever dream
+* Spopplio
+* Sporty Spice
+* Prog Spot
+* Late Spootles
+* Venuspot
 * Big Spootify
 * A whole night of licking wrapping paper to truly feel the Christmas spirit.
 * Lots and lots and lots and lots and lots and lots and lots and lots of spotify
