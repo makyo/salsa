@@ -50,6 +50,10 @@ title: "Things we've called Spotify"
 * 
 ʎɟᴉʇodS
 * Heh heh, Foxhole
+* ARE YOU WITH SPOTIFY YET
+* You separate the physical from the Spotify
+* Youtube
+* Strawinsky and the Mysterious House, or youtube
 * DON'T YOU GET IT? IT'S MUSIC ALL THE WAY DOWN AHAHAHAHAHAHA
 * Sportizify
 * Spotiotiotiotiotify
@@ -63,6 +67,14 @@ title: "Things we've called Spotify"
 * Spobify
 * Good ol' youtube
 * You, Tube!
+* Pope Spotmeritus IV
+* ???ify
+* SPO(tify)
+* Spot/Spot/Spot
+* Spot for your eyes, a beast in the well on your paw
+* Iffy Tops
+* Your favorite podcast delivery service
+* 
 * Spotify, but it's in Finnish
 * Sphagnumify
 * Spink
@@ -98,7 +110,6 @@ title: "Things we've called Spotify"
 * Hey does anybody else remember that one interview with Björk where she takes apart a TV? It was delightful. Also, this is one Spotify
 * <i>Green Circle With Three Black Marks</i>, an art piece that speaks to a generation.
 * It's kinda fucked up how they pushed the dude who first discovered irrational numbers off a boat to drown, but, like, I was deeply upset when I first encountered the Weierstrass function, so I guess I understand. 
-* 
 * Hey can I borrow your Spotify?
 * Once in a Spoot Moon
 * Stage Rhodesify
@@ -137,6 +148,9 @@ title: "Things we've called Spotify"
 * Spopsicle
 * Simpleflips
 * Skramziflamz
+* Spotiphonics
+* Splort
+* Without Spot
 * Spotify-Man Dick
 * I can feel spotify crawl its way back into my private life
 * Spotify, but also sometimes in 12/8
