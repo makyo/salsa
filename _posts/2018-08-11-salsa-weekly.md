@@ -13,10 +13,10 @@ iframe { margin: 0 auto; display: block; width: 100%; }
 ## The List
 
 For your listening pleasure, here are our picks in one handy dandy [Spotify
-playlist](https://open.spotify.com/user/drabmakyo/playlist/74aUFIffGt37kS2m1jKn5W). Scroll down for what we have to say!
+playlist](https://open.spotify.com/user/drabmakyo/playlist/1hogFNTdaRk9BE4RBkh9yb). Scroll down for what we have to say!
 
 <iframe
-src="https://open.spotify.com/embed/user/drabmakyo/playlist/74aUFIffGt37kS2m1jKn5W" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+src="https://open.spotify.com/embed/user/drabmakyo/playlist/1hogFNTdaRk9BE4RBkh9yb" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
 
 -----
 
