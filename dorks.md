@@ -3,95 +3,19 @@ layout: page
 title: "Things we've called Spotify"
 ---
 
-* oooooooot
-* Sppppppppp
-* West New York, New Jersey
-* Why?
-* iiiiif
-* [smash cut to six bleached white skeletons]
-* Feels, feels, feels, f-f-f-feels.
-* SPOTIFY I GUESS
-* Spiffty Five
-* I mean seriously how could I not listen to an album with that title also it's Spotify
-* Shoetify
-* silverladder.com - 11/11
-* hey friends can you really believe that in the year 2017 one of the best electronic tracks samples a rap track that goes hard on the Yu-Gi-Oh! references because i can totally believe it, also, spotify
-* What's green and sits on your front porch? Patty O'Furniture. (Also Spotify.)
-* Spotsakovich
-* Not Spotify? Really!? How are we going to make puns now? D:
+* DON'T YOU GET IT? IT'S MUSIC ALL THE WAY DOWN AHAHAHAHAHAHA
+* Sportizify
+* Spotiotiotiotiotify
+* Spiong.
+* Snarkify
+* Did you know that the Rhine doesn't have a single distinct source? It's true!
+* Shponglefy
 * I AM GRAVITY
 * Spotty Spotty Bonito
 * Yes
 * Roy Spattyify
 * I think my dad is worried about how much "Cat's in the Cradle" resembles our relationship
 * Spotify a.f.
-* Spot Vincent
-* The source that you ought to see, not what it turned out to be.
-* The SALSA Enrichment Center reminds you that Spotify hell is a real place where you will be sent at the first sign of defiance
-* Suspended, as in heavy syrup, in a bubble of endless hyperbolic space
-* The 2020 Spotlympics
-* And the dish ran away with the Spoot
-* Drunk at a con
-* See this Spotify, watch this Spotify flooooow~
-* Spotifoo-fighters
-* Spotifrou
-* Spotify for queer people
-* SoundCloud! WAIT SHOOT IT'S NOT A SPOTIFY PUN HELP HELP HELP
-* Spotify
-* spittyspottiflittyfly
-* spiflooty
-* sportiflop
-* Spiffy
-* spoot
-* Spoooooooooootify
-* Spiffem's
-* Spotify Copies
-* Spotify er ekki í boði í þínu landi
-* 
-ʎɟᴉʇodS
-* Heh heh, Foxhole
-* ARE YOU WITH SPOTIFY YET
-* You separate the physical from the Spotify
-* Youtube
-* Strawinsky and the Mysterious House, or youtube
-* DON'T YOU GET IT? IT'S MUSIC ALL THE WAY DOWN AHAHAHAHAHAHA
-* Sportizify
-* Spotiotiotiotiotify
-* Spiong.
-* Hornify
-* /hug
-* sporkiknyf
-* Sporkleforkle
-* Sportify
-* Paddling through a flooded deserted city center, the last copy on CD will float by you. You'll trade it for a cup of water later on. 
-* Spobify
-* Good ol' youtube
-* You, Tube!
-* Pope Spotmeritus IV
-* ???ify
-* SPO(tify)
-* Spot/Spot/Spot
-* Spot for your eyes, a beast in the well on your paw
-* Iffy Tops
-* Your favorite podcast delivery service
-* 
-* Spotify, but it's in Finnish
-* Sphagnumify
-* Spink
-* Spotimento
-* The Yubtubs
-* Can be found on Spoofy also yuhtubs.
-* There are many recordings on both Spotify and YouTube. This is a good one in the link
-* I miss my friends too much to make a Spotify joke.
-* SPONGE
-* A slowly rotting fallen log, covered with ivy and first frost.
-* Bee Movie (actually just Spotify)
-* Wherever you listen to podcasts that isn't Spotify.
-* Stravotify? Stravinskify? Spotinksy?
-* If you're somehow reading this as an archaeologist in Late Pre-Singularity and/or Lorxus Studies reading this, I'm sorry for briefly exciting you, there are not yet machine gods in 2017, as far as I know. As a fellow graduate student, I understand your anguish. Yes, you specifically. Because I'm prescient. Hurry the fuck up and rescue simulation me already, I'm an excellent primary source.
-* Snootify. I'm playing to the crowd.
-* Find out, on the next episode of Spotify Z
-* Spotify. Really? Yep! Just spootify this time. Wait. Shit.
 * BLUNT LOADED LIKE A FULL CLIP
 * How To Spotify & Make Friends
 * Spots & Ify's
@@ -101,39 +25,6 @@ title: "Things we've called Spotify"
 * Yuh-Tubs
 * Sporty Fly
 * Sbeepbeepbeep
-* You know the place
-* Would you take this six-fingered hand
-* Tritonify
-* Cronchify
-* Ryuichi Spotimoto
-* hold that spot for me
-* Hey does anybody else remember that one interview with Björk where she takes apart a TV? It was delightful. Also, this is one Spotify
-* <i>Green Circle With Three Black Marks</i>, an art piece that speaks to a generation.
-* It's kinda fucked up how they pushed the dude who first discovered irrational numbers off a boat to drown, but, like, I was deeply upset when I first encountered the Weierstrass function, so I guess I understand. 
-* Hey can I borrow your Spotify?
-* Once in a Spoot Moon
-* Stage Rhodesify
-* Spanahmenah
-* Doo doo do do dootify
-* "Kincaid Plays Super Hawaii" (1999)
-* It's my Spotify, and I'll cry if I want to.
-* I'm glad I'm not in a movie or all this coughing would mean I'd die soon
-* Go get 'em, Sportify
-* The Cloud®
-* Your Tube ..._lewd_
-* your tubular web site network account downloaded straight to your ear domain protocol
-* ~~I don't have Spotify so I can't vouge for it but I know it's on Youtube~~ I gotcha
-* Sprongus
-* [accordions intensify]
-* Ullspot
-* Vocal fry so warm it leaves you feeling cozy
-* Spartacus
-* Απο των Σποτιφων
-* Σpotify
-* Spotify, youtube, or elsewhere
-* I'unno, I'm too gestonkenflapt
-* See Spotify Run
-* On Swirlies' third studio album "Cats of the Wild Vol. 2" which I'm pretty sure isn't on streaming services unfortunately
 * Yfitops
 * My secret diaries as I was rediscovering the fossils and evolution of emo throughout the mid-00s and early 2010s--ok fine it's just Spotify
 * Cool music zone
@@ -141,77 +32,20 @@ title: "Things we've called Spotify"
 * Spooty Puff Jr.
 * Asunder, Spotify and other Distress
 * Yifftops
-* Bandcamp
-* Barely restrained unnamed emotions
-* in a hazy bar lit merely by fading neon signs. they serve two things: cheap beer and Spotify on the rocks
-* Spot & Arrow
-* Yootoobs
-* spim spam the stop spots
-* Spootles (but seriously, peep the YouTube link)
-* Makeup and Vanity Spot
-* Sports
-* Spopsicle
-* Simpleflips
-* Skramziflamz
-* Spotiphonics
-* Splort
-* Without Spot
-* Spotify-Man Dick
-* I can feel spotify crawl its way back into my private life
-* Spotify, but also sometimes in 12/8
-* Spotify but nothing is changed not even the spelling
-* It's a bird...It's a plane...It's Spotify
-* Spotify, Youtube, or Soundcloud
-* Spotifylaxis
-* Kapellmeister Spoot's storage room
-* Gregg Spopovich
-* The eighth song on the A-side of a tape cassette, the case and tracklist long since missing, passed from hand to hand since time out of memory. It's been labelled at least five times that you can see on one side, and three on the other - on what you take to be the obverse, a neat cursive hand has marked "A Side: Mixtape for G", but the reverse is marked "B-Side: ⭐FUCK JAMZ⭐" in a messier, more angular style. It takes you a week to track down anything that can even play the thing anymore, and when you do, you can't recognize a single song, and neither can Shazam, but every song seems to be in a deeply familiar style. Two weeks later you pass it on to a friend you met in a music chat and never see or hear of it again, but a song from it will occasionally waft through your dreams as if playing quietly in a nearby room.
-* COOKIN UP A GOOD HEX
-* Spinglespongle
-* A while ago but also now
-* Spotify but every time you type "spotify" the name gets weirder
-* Spoodydoody
-* YouTube
-* A fever dream
-* Spopplio
-* Sporty Spice
-* Prog Spot
-* Late Spootles
-* Venuspot
-* Big Spootify
-* A whole night of licking wrapping paper to truly feel the Christmas spirit.
-* Lots and lots and lots and lots and lots and lots and lots and lots of spotify
-* If my Lord in Heaven, Buddha, show the way - every day I do my best for one... more... day! BUT! IS! A puzzlement.
-* Spronk
-* Djentidjent
-* Muppetify
-* Spot, ify
-* Spbbbbbbbt
-* BOOtify
-* In hoc Spotify vinces
-* The slowly dying landscape of the world, burning with sunset foliage that will soon give way to the bone branches of winter.
-* Yeah
-* Spoof!
-* The center of the sun
-* YouTube, apply directly to the forehead.
-* TouYube
-* I love wild things wildly, I love quiet things quietly, I love spotty things spotify...
-* The Twelve Spot Program
-* It's kind of a shame that thanks to The Election I'm not on speaking terms with the once-beloved uncle whose apartment I played Ratchet and Clank at for the first time, but memory is forever.
-* Spot Along
-* 🕴️ 
-* △▽△▽△▽△▽△▽△▽△▽△▽
-* ▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲
-* In a box marked 'do not open until holiday of your choice;
-* Go to the abandoned burger king on 5th. You know the one. Go to the back door. Knock 3 times. Turn around. Close your eyes. It'll be safe to open your eyes when you hear the door shut. Take the package that is now at your feet. Walk away quickly, ignore the footsteps behind you. They won't follow you outside of the parking lot.
-* [a regular hexagon with all right angles]
-* Spotify Acapella 147 Times Exponentially Layered, only on ebaynetflix
-* it's coming it's coming it's hard
-* *bongos intensify*
-* *ḱerberós-ify
-* I am convinced that I once tore a hole from this reality into the Platonic world of forms by counting to smallish countable transfinite ordinals and then proceeded to stare directly into it. Probably don't do that, the strain would break you.
-* imagine if owen wilson was cast as shinji in a live-action evangelion, or would he be kaiji so he could say "wow" constantly
-* You spootify bard! 
+* Pope Spotmeritus IV
+* ???ify
+* SPO(tify)
+* Spot/Spot/Spot
+* Spot for your eyes, a beast in the well on your paw
+* Iffy Tops
+* Your favorite podcast delivery service
+* 
+* Drunk at a con
+* See this Spotify, watch this Spotify flooooow~
+* Spotifoo-fighters
+* Spotifrou
+* Spotify for queer people
+* SoundCloud! WAIT SHOOT IT'S NOT A SPOTIFY PUN HELP HELP HELP
 * Spotisaurus Rex
 * I'm gonna get out of here.
 * Spotiotiotiotiotiotiotiotiotiotiotiotiotiotiotiotiotiotify
@@ -220,12 +54,191 @@ title: "Things we've called Spotify"
 * Go Get 'Em, Sportify
 * Superspotifragilisticexpialidofy
 * Spotife Vobiscum
+* 🕴️ 
+* △▽△▽△▽△▽△▽△▽△▽△▽
+* ▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲▼▲
+* In a box marked 'do not open until holiday of your choice;
+* Go to the abandoned burger king on 5th. You know the one. Go to the back door. Knock 3 times. Turn around. Close your eyes. It'll be safe to open your eyes when you hear the door shut. Take the package that is now at your feet. Walk away quickly, ignore the footsteps behind you. They won't follow you outside of the parking lot.
+* Spotify
+* [a regular hexagon with all right angles]
+* Spotificial (Or other Podcast source of your choice)
+* Funny Spotify Pun
+* Shroomify
+* Gothify
+* Splort
+* BooDoobs
 * Spoot?!
 * Spoopyfy
 * splut
 * SPORTS
 * Swiggity Spooty
 * spork
+* Hey does anybody else remember that one interview with Björk where she takes apart a TV? It was delightful. Also, this is one Spotify
+* <i>Green Circle With Three Black Marks</i>, an art piece that speaks to a generation.
+* It's kinda fucked up how they pushed the dude who first discovered irrational numbers off a boat to drown, but, like, I was deeply upset when I first encountered the Weierstrass function, so I guess I understand. 
+* Hey can I borrow your Spotify?
+* Once in a Spoot Moon
+* Stage Rhodesify
+* Spanahmenah
+* Doo doo do do dootify
+* oooooooot
+* Sppppppppp
+* West New York, New Jersey
+* Why?
+* iiiiif
+* [smash cut to six bleached white skeletons]
+* Big Spootify
+* A whole night of licking wrapping paper to truly feel the Christmas spirit.
+* Lots and lots and lots and lots and lots and lots and lots and lots of spotify
+* If my Lord in Heaven, Buddha, show the way - every day I do my best for one... more... day! BUT! IS! A puzzlement.
+* Spronk
+* Djentidjent
+* ARE YOU WITH SPOTIFY YET
+* You separate the physical from the Spotify
+* Youtube
+* Strawinsky and the Mysterious House, or youtube
+* Spartacus
+* Απο των Σποτιφων
+* Σpotify
+* Spotify, youtube, or elsewhere
+* I'unno, I'm too gestonkenflapt
+* See Spotify Run
+* On Swirlies' third studio album "Cats of the Wild Vol. 2" which I'm pretty sure isn't on streaming services unfortunately
+* Spinglespongle
+* A while ago but also now
+* Spotify but every time you type "spotify" the name gets weirder
+* Spoodydoody
+* YouTube
+* A fever dream
+* Spotiphonics
+* Without Spot
+* You know the place
+* Would you take this six-fingered hand
+* Tritonify
+* Cronchify
+* Ryuichi Spotimoto
+* hold that spot for me
+* I am convinced that I once tore a hole from this reality into the Platonic world of forms by counting to smallish countable transfinite ordinals and then proceeded to stare directly into it. Probably don't do that, the strain would break you.
+* imagine if owen wilson was cast as shinji in a live-action evangelion, or would he be kaiji so he could say "wow" constantly
+* You spootify bard! 
+* Spoooooooooootify
+* Spiffem's
+* Spotify Copies
+* Spotify er ekki í boði í þínu landi
+* 
+ʎɟᴉʇodS
+* Heh heh, Foxhole
+* I miss my friends too much to make a Spotify joke.
+* SPONGE
+* A slowly rotting fallen log, covered with ivy and first frost.
+* Bee Movie (actually just Spotify)
+* Spootify
+* Spotify, ostensibly
+* I love wild things wildly, I love quiet things quietly, I love spotty things spotify...
+* The Twelve Spot Program
+* It's kind of a shame that thanks to The Election I'm not on speaking terms with the once-beloved uncle whose apartment I played Ratchet and Clank at for the first time, but memory is forever.
+* Spot Along
+* Spotify Acapella 147 Times Exponentially Layered, only on ebaynetflix
+* it's coming it's coming it's hard
+* *bongos intensify*
+* *ḱerberós-ify
+* "Kincaid Plays Super Hawaii" (1999)
+* It's my Spotify, and I'll cry if I want to.
+* I'm glad I'm not in a movie or all this coughing would mean I'd die soon
+* Go get 'em, Sportify
+* The Cloud®
+* Your Tube ..._lewd_
+* your tubular web site network account downloaded straight to your ear domain protocol
+* silverladder.com - 11/11
+* hey friends can you really believe that in the year 2017 one of the best electronic tracks samples a rap track that goes hard on the Yu-Gi-Oh! references because i can totally believe it, also, spotify
+* What's green and sits on your front porch? Patty O'Furniture. (Also Spotify.)
+* Spotsakovich
+* Not Spotify? Really!? How are we going to make puns now? D:
+* It's a bird...It's a plane...It's Spotify
+* Spotify, Youtube, or Soundcloud
+* Spotifylaxis
+* Kapellmeister Spoot's storage room
+* Gregg Spopovich
+* The eighth song on the A-side of a tape cassette, the case and tracklist long since missing, passed from hand to hand since time out of memory. It's been labelled at least five times that you can see on one side, and three on the other - on what you take to be the obverse, a neat cursive hand has marked "A Side: Mixtape for G", but the reverse is marked "B-Side: ⭐FUCK JAMZ⭐" in a messier, more angular style. It takes you a week to track down anything that can even play the thing anymore, and when you do, you can't recognize a single song, and neither can Shazam, but every song seems to be in a deeply familiar style. Two weeks later you pass it on to a friend you met in a music chat and never see or hear of it again, but a song from it will occasionally waft through your dreams as if playing quietly in a nearby room.
+* COOKIN UP A GOOD HEX
+* ~~I don't have Spotify so I can't vouge for it but I know it's on Youtube~~ I gotcha
+* Sprongus
+* [accordions intensify]
+* Ullspot
+* Vocal fry so warm it leaves you feeling cozy
+* Compli- (compli-) cated (cated) compli- (compli-) cated (cated)
+* Cool Spot
+* Probably just Youtube, actually, not sure if Spotify has this one, or just PLAY VVVVVV for heck's sake, it's good
+* Mmm that hits the Spotify
+* Spoooooootles
+* Someplace wonderful!
+* Spopsicle
+* Simpleflips
+* Skramziflamz
+* Hornify
+* /hug
+* sporkiknyf
+* Sporkleforkle
+* Sportify
+* Paddling through a flooded deserted city center, the last copy on CD will float by you. You'll trade it for a cup of water later on. 
+* Spobify
+* Good ol' youtube
+* You, Tube!
+* BOOtify
+* In hoc Spotify vinces
+* The slowly dying landscape of the world, burning with sunset foliage that will soon give way to the bone branches of winter.
+* Yeah
+* Spoof!
+* The center of the sun
+* YouTube, apply directly to the forehead.
+* TouYube
+* Spotify, but it's in Finnish
+* Sphagnumify
+* Spink
+* Spotimento
+* The Yubtubs
+* Can be found on Spoofy also yuhtubs.
+* There are many recordings on both Spotify and YouTube. This is a good one in the link
+* Spotify-Man Dick
+* I can feel spotify crawl its way back into my private life
+* Spotify, but also sometimes in 12/8
+* Spotify but nothing is changed not even the spelling
+* Spopplio
+* Sporty Spice
+* Prog Spot
+* Late Spootles
+* Venuspot
+* Spot Vincent
+* The source that you ought to see, not what it turned out to be.
+* The SALSA Enrichment Center reminds you that Spotify hell is a real place where you will be sent at the first sign of defiance
+* Suspended, as in heavy syrup, in a bubble of endless hyperbolic space
+* The 2020 Spotlympics
+* And the dish ran away with the Spoot
+* Fspotify
+* Spootles
+* Sboggle
+* lo zgike cu spofu
+* spittyspottiflittyfly
+* spiflooty
+* sportiflop
+* Spiffy
+* spoot
+* Wherever you listen to podcasts that isn't Spotify.
+* Stravotify? Stravinskify? Spotinksy?
+* If you're somehow reading this as an archaeologist in Late Pre-Singularity and/or Lorxus Studies reading this, I'm sorry for briefly exciting you, there are not yet machine gods in 2017, as far as I know. As a fellow graduate student, I understand your anguish. Yes, you specifically. Because I'm prescient. Hurry the fuck up and rescue simulation me already, I'm an excellent primary source.
+* Snootify. I'm playing to the crowd.
+* Find out, on the next episode of Spotify Z
+* Spotify. Really? Yep! Just spootify this time. Wait. Shit.
+* Flying Spotify Banana
+* Shamify
+* Neo-Spotopolis -- FUTURE YEAR: 2018
+* Spotty showers of snow that slushify the streets.
+* Asplundh
+* Feels, feels, feels, f-f-f-feels.
+* SPOTIFY I GUESS
+* Spiffty Five
+* I mean seriously how could I not listen to an album with that title also it's Spotify
+* Shoetify
 * Bandcamp only right now
 * [A LONG, SLOW MOAN FROM THE UNIVERSE]
 * Spoofity
@@ -240,23 +253,18 @@ title: "Things we've called Spotify"
 * Implacable snare drums
 * The brief but eternal realization that things may yet be OK in the end.
 * YOUTUBE
-* Flying Spotify Banana
-* Shamify
-* Neo-Spotopolis -- FUTURE YEAR: 2018
-* Spotty showers of snow that slushify the streets.
-* Asplundh
-* Fspotify
-* Spootles
-* Sboggle
-* lo zgike cu spofu
-* Snarkify
-* Did you know that the Rhine doesn't have a single distinct source? It's true!
-* Shponglefy
-* Compli- (compli-) cated (cated) compli- (compli-) cated (cated)
-* Cool Spot
-* Probably just Youtube, actually, not sure if Spotify has this one, or just PLAY VVVVVV for heck's sake, it's good
-* Mmm that hits the Spotify
-* Spoooooootles
-* Someplace wonderful!
-* Spootify
-* Spotify, ostensibly
+* Bandcamp
+* Barely restrained unnamed emotions
+* in a hazy bar lit merely by fading neon signs. they serve two things: cheap beer and Spotify on the rocks
+* Spot & Arrow
+* Yootoobs
+* spim spam the stop spots
+* Spootles (but seriously, peep the YouTube link)
+* Makeup and Vanity Spot
+* Sports
+* Spot Me Outside
+* Muppetify
+* Spot, ify
+* Spbbbbbbbt
+* Splorty Eye
+* Mr. Spotlesworth
