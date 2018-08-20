@@ -4,6 +4,7 @@ import yaml
 
 
 weeklies = {}
+songs = []
 for weekly in os.listdir("_data"):
     if weekly[-3:] != 'csv':
         continue
@@ -14,9 +15,18 @@ for weekly in os.listdir("_data"):
             if n not in weeklies:
                 weeklies[n] = []
             weeklies[n].append(row['Artist - Song Title'])
+            if 'Link' in row:
+                songs.append((row['Artist - Song Title'], row['Link']))
+            elif 'Link just in case' in row:
+                songs.append(
+                    (row['Artist - Song Title'], row['Link just in case']))
 
 with open('_data/weeklyify.yml', 'w') as f:
     f.write(yaml.safe_dump(weeklies))
+
+with open('songs.txt', 'w') as f:
+    for song in songs:
+        f.write('{}: {}\n'.format(song[0], song[1]))
 
 
 ## NEEEERRRRRRRDS
