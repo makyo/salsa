@@ -61,6 +61,12 @@ title: "Things we've called Spotify"
 * Go to the abandoned burger king on 5th. You know the one. Go to the back door. Knock 3 times. Turn around. Close your eyes. It'll be safe to open your eyes when you hear the door shut. Take the package that is now at your feet. Walk away quickly, ignore the footsteps behind you. They won't follow you outside of the parking lot.
 * Spotify
 * [a regular hexagon with all right angles]
+* YoteTube
+* Spotariah
+* PC Spotify
+* Spotraline
+* Spot Your Friends
+* YouTube
 * Spotificial (Or other Podcast source of your choice)
 * Funny Spotify Pun
 * Shroomify
@@ -108,7 +114,6 @@ title: "Things we've called Spotify"
 * A while ago but also now
 * Spotify but every time you type "spotify" the name gets weirder
 * Spoodydoody
-* YouTube
 * A fever dream
 * Spotiphonics
 * Without Spot
