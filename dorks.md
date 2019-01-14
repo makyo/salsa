@@ -137,6 +137,10 @@ title: "Things we've called Spotify"
 * [accordions intensify]
 * Ullspot
 * Vocal fry so warm it leaves you feeling cozy
+* Places?
+* Spiffify
+* Progify
+* Spooooof
 * Spartacus
 * Απο των Σποτιφων
 * Σpotify
