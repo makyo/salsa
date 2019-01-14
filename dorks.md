@@ -59,6 +59,11 @@ title: "Things we've called Spotify"
 * You separate the physical from the Spotify
 * Youtube
 * Strawinsky and the Mysterious House, or youtube
+* Relevant 2019-themed Spotify Pun
+* Spoofy 
+* SpottyFy
+* UFOify
+* Spiderfly
 * DON'T YOU GET IT? IT'S MUSIC ALL THE WAY DOWN AHAHAHAHAHAHA
 * Sportizify
 * Spotiotiotiotiotify
